@@ -1,0 +1,15 @@
+{
+  "pages": {
+    "/_app": []
+  },
+  "devFiles": [],
+  "polyfillFiles": [],
+  "lowPriorityFiles": [
+    "static/lVdtLPOKZx0mymNulpkQQ/_buildManifest.js",
+    "static/lVdtLPOKZx0mymNulpkQQ/_ssgManifest.js",
+    "static/lVdtLPOKZx0mymNulpkQQ/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [],
+  "rootMainFilesTree": {},
+  "pagesChunkGroupBootstrapParams": {}
+}
